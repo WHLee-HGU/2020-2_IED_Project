@@ -21,9 +21,11 @@ The students consisted of 3 or 4 students in one group, and **11 groups in the s
 
 The presentation materials and the project website for each group can be found at the link below.
 
+<br/>
+
 ### Section #1 (Enlgish, 영어분반)
 
-[* **https://whlee-hgu.github.io/2020-2_IED_Project/section1** *](https://whlee-hgu.github.io/2020-2_IED_Project/section1)
+[*https://whlee-hgu.github.io/2020-2_IED_Project/section1*](https://whlee-hgu.github.io/2020-2_IED_Project/section1)
 
 ### Section #5 (Korean, 한국어분반)
 
@@ -31,4 +33,4 @@ The presentation materials and the project website for each group can be found a
 
 더불어, 아래 링크는 "한동대학교가 추구하는 가치를 따라 공학설계를 한다는 것이 어떤 의미인가"에 대한 학생들의 답변들을 모아 놓은 페이지입니다.
 
-[**https://whlee-hgu.github.io/2020-2_IED_Project/values**](https://whlee-hgu.github.io/2020-2_IED_Project/values)
+[*https://whlee-hgu.github.io/2020-2_IED_Project/values*](https://whlee-hgu.github.io/2020-2_IED_Project/values)
