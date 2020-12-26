@@ -40,7 +40,7 @@ Project Website: [https://github.com/systec24/IED-Group-4-Final-Presentation](ht
 ### Group 5 (Multivitamin )
 Title: **Customized NPU for Mental Illness Patients**
 
-<img src="" width="200"/>
+<img src="https://github.com/WHLee-HGU/2020-2_IED_Project/blob/main/Section%231/g5.png?raw=true" width="200"/>
 
 Final Presentation Video: [https://youtu.be/C972hZ2YHyg](https://youtu.be/C972hZ2YHyg)
 
@@ -58,7 +58,7 @@ Project Website: [https://blog.naver.com/kdy3104](https://blog.naver.com/kdy3104
 ### Group 7 (17.5)
 Title: **VR Doctors Transcending Time and Space**
 
-<img src="" width="200"/>
+<img src="https://github.com/WHLee-HGU/2020-2_IED_Project/blob/main/Section%231/g7.PNG?raw=true" width="200"/>
 
 Final Presentation Video: [https://youtu.be/MIlaqnRtDFw](https://youtu.be/MIlaqnRtDFw)
 
