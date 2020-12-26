@@ -7,16 +7,21 @@
 
 수강생들은 3인 또는 4인이 한 개의 조로 구성되어 **1분반(영어분반) 11개 조**, **5분반(한국어분반) 14개 조**가 프로젝트에 참여하였습니다.
 
+<br/>
+
 This website provides a collection of projects conducted by studetns taking the **Introduction to Engineering Design** course (sections run by prof. [**WonHyong Lee**](https://sites.google.com/site/leestation/)) in the [**Department of Computer Science and Electrical Engineering**](http://csee.handong.edu/) at [**Handong Global University (HGU)**](https://www.handong.edu/) in the fall semester of 2020.
 
 The proejct's topic is to **""Design a negative pressure unit(room or ward) for mentally ill patients with respiratory infections"**. This topic is suggested by **Paul Yoonyoung Nam(남윤영)** who is leading the medical department of the [**National Center for Mental Health**](http://www.ncmh.go.kr/ncmh/main.do); and supported by [**Handong Innovation Center for Engineering Education**](http://hicee.handong.edu/).
 
-The students consisted of 3 or 4 students in one group, and **11 groups in the section #1 (Enlish)** and **14 groups in the section #5 (Korean)** participated in the project.
+The students consisted of 3 or 4 students in one group, and **11 groups in the section #1 (English)** and **14 groups in the section #5 (Korean)** participated in the project.
+
+<br/>
 
 각 분반의 조별 발표자료와 각 조의 프로젝트 웹싸이트의 정보는 아래 링크에서 확인하실 수 있습니다
 
 The presentation materials and the project website for each group can be found at the link below.
 
 ### Section #1 (Enlgish, 영어분반)
+https://github.com/WHLee-HGU/2020-2_IED_Project/blob/main/Section%231/Projects.MD
 
 ### Section #5 (Korean, 한국어분반)
