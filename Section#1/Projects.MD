@@ -94,7 +94,7 @@ Project Website: [https://ourclass.tistory.com/](https://ourclass.tistory.com/)
 ### Group 11 (A nywhere R ight Here)
 Title: **Psychotherapy Using AR**
 
-<img src="https://modo-phinf.pstatic.net/20201220_236/1608469748411vw92O_PNG/mosatFHTe3.png?type=w720" width="200"/>
+<img src="https://github.com/WHLee-HGU/2020-2_IED_Project/blob/main/Section%231/g11.PNG?raw=true" width="200"/>
 
 Final Presentation Video: [https://youtu.be/HVMGLRI4R1M](https://youtu.be/HVMGLRI4R1M)
 
