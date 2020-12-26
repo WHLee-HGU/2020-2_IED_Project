@@ -25,3 +25,9 @@ The presentation materials and the project website for each group can be found a
 [**https://whlee-hgu.github.io/2020-2_IED_Project/Section%231/Projects**](https://whlee-hgu.github.io/2020-2_IED_Project/Section%231/Projects)
 
 ### Section #5 (Korean, 한국어분반)
+
+<br/>
+
+더불어, 아래 링크는 "한동대학교가 추구하는 가치를 따라 공학설계를 한다는 것이 어떤 의미인가"에 대한 학생들의 답변들을 모아 놓은 페이지입니다.
+
+[**https://whlee-hgu.github.io/2020-2_IED_Project/values**](https://whlee-hgu.github.io/2020-2_IED_Project/values)
