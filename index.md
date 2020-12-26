@@ -1,7 +1,7 @@
 # 2020-2 공학설계입문 최종 프로젝트 모음
 # 2020-2 Introduction to Engineering Design Project Collection
 
-2020년 가을학기 [**한동대학교**](https://www.handong.edu/) [**전산전자공학부**](http://csee.handong.edu/) **공학설계입문** 수업의 [이원형 교수](https://sites.google.com/site/leestation/) 분반(1분반, 5분반)에서 진행된 최종 프로젝트를 모아놓은 웹싸이트입니다.
+2020년 가을학기 [**한동대학교**](https://www.handong.edu/) [**전산전자공학부**](http://csee.handong.edu/) **공학설계입문** 수업의 [**이원형**](https://sites.google.com/site/leestation/)교수 분반(1분반, 5분반)에서 진행된 최종 프로젝트를 모아놓은 웹싸이트입니다.
 
 최종 프로젝트의 주제는 **"호흡기 감염증을 앓는 정신질환자들을 위한 음압병실 재설계"** 였으며, 해당 주제는 [**국립정신건강센터**](http://www.ncmh.go.kr/ncmh/main.do)의 **남윤영** 의료부장님께서 제안해주셨고, [**한동공학교육혁신센터**](http://hicee.handong.edu/)의 지원을 받았습니다.
 
@@ -22,7 +22,7 @@ The students consisted of 3 or 4 students in one group, and **11 groups in the s
 The presentation materials and the project website for each group can be found at the link below.
 
 ### Section #1 (Enlgish, 영어분반)
-[**https://whlee-hgu.github.io/2020-2_IED_Project/Section%231/Projects**](https://whlee-hgu.github.io/2020-2_IED_Project/Section%231/Projects)
+
 [*https://whlee-hgu.github.io/2020-2_IED_Project/section1*](https://whlee-hgu.github.io/2020-2_IED_Project/section1)
 
 ### Section #5 (Korean, 한국어분반)
