@@ -23,7 +23,7 @@ The presentation materials and the project website for each group can be found a
 
 ### Section #1 (Enlgish, 영어분반)
 
-[*https://whlee-hgu.github.io/2020-2_IED_Project/section1*](https://whlee-hgu.github.io/2020-2_IED_Project/section1)
+[* **https://whlee-hgu.github.io/2020-2_IED_Project/section1** *](https://whlee-hgu.github.io/2020-2_IED_Project/section1)
 
 ### Section #5 (Korean, 한국어분반)
 
