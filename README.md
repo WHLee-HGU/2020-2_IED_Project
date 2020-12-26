@@ -22,6 +22,6 @@ The students consisted of 3 or 4 students in one group, and **11 groups in the s
 The presentation materials and the project website for each group can be found at the link below.
 
 ### Section #1 (Enlgish, 영어분반)
-https://github.com/WHLee-HGU/2020-2_IED_Project/blob/main/Section%231/Projects.MD
+[**https://whlee-hgu.github.io/2020-2_IED_Project/Section%231/Projects**](https://whlee-hgu.github.io/2020-2_IED_Project/Section%231/Projects)
 
 ### Section #5 (Korean, 한국어분반)
