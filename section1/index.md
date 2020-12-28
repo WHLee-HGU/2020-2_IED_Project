@@ -82,7 +82,7 @@ Final Presentation Video: [https://youtu.be/x1z1FNl1v4A](https://youtu.be/x1z1FN
 
 Project Website: [https://github.com/JWMON/2020-2_IED_Project](https://github.com/JWMON/2020-2_IED_Project)
 
-### Group 10 ()
+### Group 10 (Group Neon)
 Title: **Design Safety Bed to Solving Problems about NPU for Mental Patient**
 
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbXUWLH%2FbtqQJEs5vpL%2Fp0BZfPIFLoj57mJR4LVKkk%2Fimg.png" width="200"/>
