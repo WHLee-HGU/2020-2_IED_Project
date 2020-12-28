@@ -140,7 +140,7 @@ Project Website: [https://blog.naver.com/corby9967](https://blog.naver.com/corby
 
 <br/>
 
-## 질의응답이 포함된 수업 영상
+## 질의응답이 포함된 실시간 수업 영상
 
 파트1 [*https://youtu.be/nhAdlfVB39k*](https://youtu.be/nhAdlfVB39k)
 
