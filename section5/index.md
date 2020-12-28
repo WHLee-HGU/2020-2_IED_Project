@@ -137,3 +137,9 @@ Title: **정신질환자들의 스트레스를 감소시키는 음압병실 설�
 Final Presentation Video: [https://youtu.be/Wt2HNlS0BLc](https://youtu.be/Wt2HNlS0BLc)
 
 Project Website: [https://blog.naver.com/corby9967](https://blog.naver.com/corby9967)
+
+## 질의응답이 포함된 실제 수업 영상
+
+파트1 [*https://youtu.be/nhAdlfVB39k*](https://youtu.be/nhAdlfVB39k)
+
+파트2 [*https://youtu.be/BD-qY7hf760*](https://youtu.be/BD-qY7hf760)
