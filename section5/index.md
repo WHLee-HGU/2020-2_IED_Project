@@ -44,8 +44,6 @@ Project Website: [https://cafe.naver.com/group4best](https://cafe.naver.com/grou
 
 Title: **정신질환자의 스트레스를 최소화한 음압병실 설계**
 
-<img src="" width="200"/>
-
 Final Presentation Video: [https://youtu.be/-yPpUKh7rfI](https://youtu.be/-yPpUKh7rfI)
 
 Project Website: [https://blog.naver.com/hgu_pangil](https://blog.naver.com/hgu_pangil)
