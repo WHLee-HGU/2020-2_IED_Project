@@ -99,3 +99,12 @@ Title: **Psychotherapy Using AR**
 Final Presentation Video: [https://youtu.be/HVMGLRI4R1M](https://youtu.be/HVMGLRI4R1M)
 
 Project Website: [https://npu.modoo.at/](https://npu.modoo.at/)
+
+<br/>
+
+## Live Presentation Video (including Q&A)
+
+Part1 [*https://youtu.be/T30OLqYzats*](https://youtu.be/T30OLqYzats)
+
+Part2 [*https://youtu.be/5_jtpGDRNkg*](https://youtu.be/5_jtpGDRNkg)
+
