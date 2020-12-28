@@ -138,7 +138,9 @@ Final Presentation Video: [https://youtu.be/Wt2HNlS0BLc](https://youtu.be/Wt2HNl
 
 Project Website: [https://blog.naver.com/corby9967](https://blog.naver.com/corby9967)
 
-## 질의응답이 포함된 실제 수업 영상
+<br/>
+
+## 질의응답이 포함된 수업 영상
 
 파트1 [*https://youtu.be/nhAdlfVB39k*](https://youtu.be/nhAdlfVB39k)
 
