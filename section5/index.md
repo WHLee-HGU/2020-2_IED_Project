@@ -54,7 +54,7 @@ Project Website: [https://blog.naver.com/hgu_pangil](https://blog.naver.com/hgu_
 
 Title: **정신질환자의 소통을 장려하는 음압병실 설계**
 
-<img src="https://lh3.googleusercontent.com/26qogMGhJHLEmZSt4iUWDr1UvxkHVgePzasSKpRB2l8-ETglK-cHq-6Sp4wjd_LD4mvKl8a98kkJOEyOeBi49OAijD4fFHicu-ei7cvQYdOTyUX6q6I=w1280" width="200"/>
+<img src="https://lh3.googleusercontent.com/xLsshWY85oZvYuVeDKVe-5LBYecF8u9MZ1_OQVRjIL0VTY_YEHjRwHCia8vqDvuwBy520H8v6x0h2CArHeixdZhOXRK1gYV3e4dglYVxj5emnC6uK9I" width="200"/>
 
 Final Presentation Video: [https://youtu.be/c5MkbJC5VjA](https://youtu.be/c5MkbJC5VjA)
 
@@ -74,7 +74,7 @@ Project Website: [https://github.com/youngjungju/-7-/](https://github.com/youngj
 
 Title: **정신질환자들의 스트레스 완화를 위하여 소통이 가능하도록 IMAX기술을 응용한 스크린이 설치된 부채꼴 모양의 병실 고안**
 
-<img src="https://lh5.googleusercontent.com/lP3ofSFHjPrv7DLXgcTMgBg-QioghCaICoR_2mDwnVwj_yBLCnqMeuBjjz492tpE4Xu18RZKhYaU3aAiF7k6BfuIu-xflOr2MAotw0sXn9dyjHJWc2Rk=w1280" width="200"/>
+<img src="https://lh5.googleusercontent.com/b-GAiCW6kW0ZGtfqDX5wzEToFZ5EOBlJonq1JRt2mCCgpTFvm8VrE5IXJlRQH3wcSZK-ux_57ikhhvfVh-O163U0QDN2XmZmN5gC7lc08t6pyamIayi-" width="200"/>
 
 Final Presentation Video: [https://youtu.be/GVRsnJmopRM](https://youtu.be/GVRsnJmopRM)
 
@@ -84,7 +84,7 @@ Project Website: [https://sites.google.com/handong.edu/ajaaja/](https://sites.go
 
 Title: **care Unit Control Assistant Tablet (UCAT)**
 
-<img src="https://lh5.googleusercontent.com/USotEjT0gjaJCDGGEPb2I9_80RDn2i3GwLucqaudH6NdA7BQy1ncMzAIhB-9KmOspdyrnJuVUeCKLjTDmxbgVJtneXQTEHLy6GXoZhgs83Uae1WgOp8=w1280" width="200"/>
+<img src="https://github.com/WHLee-HGU/2020-2_IED_Project/blob/gh-pages/section5/9.png?raw=true" width="200"/>
 
 Final Presentation Video: [https://youtu.be/ORuHGkfHJAM](https://youtu.be/ORuHGkfHJAM)
 
