@@ -1,5 +1,5 @@
 ## 2020-2 공학설계입문 프로젝트 모음
-## 2020-2 Introduction to Engineering Design Project Collection
+## 2020-2 Introduction to Engineering Design, Project Collection
 
 2020년 가을학기 [**한동대학교**](https://www.handong.edu/) [**전산전자공학부**](http://csee.handong.edu/) **공학설계입문** 수업의 [**이원형**](https://sites.google.com/site/leestation/)교수 분반(1분반, 5분반)에서 진행된 최종 프로젝트를 모아놓은 웹싸이트입니다.
 
