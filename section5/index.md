@@ -14,7 +14,7 @@ Project Website: [https://blog.naver.com/leebbd4](https://blog.naver.com/leebbd4
 
 Title: **고립감 해소를 위한 음압병실 구조 설계**
 
-<img src="https://github.com/WHLee-HGU/2020-2_IED_Project/blob/gh-pages/section5/2.png?raw=true" width="200"/>
+<img src="https://github.com/WHLee-HGU/2020-2_IED_Project/blob/gh-pages/section5/2.jpg?raw=true" width="200"/>
 
 Final Presentation Video: [https://youtu.be/t1YCeOMOc8k](https://youtu.be/t1YCeOMOc8k)
 
@@ -24,7 +24,7 @@ Project Website: [https://github.com/acw0361/Introduction-to-Engineering-Design_
 
 Title: **소통을 통해 정신질환자의 폭력성을 감소시키는 인공지능 스피커**
 
-<img src="https://github.com/WHLee-HGU/2020-2_IED_Project/blob/gh-pages/section5/3.png?raw=true" width="200"/>
+<img src="https://github.com/WHLee-HGU/2020-2_IED_Project/blob/gh-pages/section5/3.jpg?raw=true" width="200"/>
 
 
 Final Presentation Video: [https://youtu.be/27YczewxoJg](https://youtu.be/27YczewxoJg)
@@ -125,7 +125,7 @@ Project Website: [https://cafe.naver.com/rhdtjfdlq12](https://cafe.naver.com/rhd
 
 Title: **소음은 줄이고 소통은 원활히하는 음압병실**
 
-<img src="https://github.com/WHLee-HGU/2020-2_IED_Project/blob/gh-pages/section5/13.png?raw=true" width="200"/>
+<img src="https://github.com/WHLee-HGU/2020-2_IED_Project/blob/gh-pages/section5/13.jpg?raw=true" width="200"/>
 
 Final Presentation Video: [https://youtu.be/YSU9125-r20](https://youtu.be/YSU9125-r20)
 
