@@ -49,8 +49,7 @@ Project Website: [https://blog.naver.com/tim408](https://blog.naver.com/tim408)
 ### Group 6 (11Circles)
 Title: **Solve the isolation that patients with mental illness feel in NPU: through AI helper and Video call**
 
-<img src="https://github.com/WHLee-HGU/2020-2_IED_Project/blob/gh-pages/section1/6.png?raw=true" width="200"/>
-<img src="https://github.com/WHLee-HGU/2020-2_IED_Project/blob/gh-pages/section1/6-1.png?raw=true" width="200"/>
+<img src="https://github.com/WHLee-HGU/2020-2_IED_Project/blob/gh-pages/section1/6.png?raw=true" width="200"/><img src="https://github.com/WHLee-HGU/2020-2_IED_Project/blob/gh-pages/section1/6-1.png?raw=true" width="200"/>
 
 Final Presentation Video: [https://youtu.be/_zeZQTEVlLs](https://youtu.be/_zeZQTEVlLs)
 
