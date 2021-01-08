@@ -109,7 +109,7 @@ Title: **중정을 활용한 음압병실 설계**
 
 Final Presentation Video: [https://youtu.be/aZPYE3UChSg](https://youtu.be/aZPYE3UChSg)
 
-Project Website: [https://www.notion.so/engineeringdesign11/invite/6719eb8ab5ca68e988b3eb53ce812811cb044c57](https://www.notion.so/engineeringdesign11/invite/6719eb8ab5ca68e988b3eb53ce812811cb044c57)
+Project Website: [https://www.notion.so/engineeringdesign11/Final-Presentation-237873f39b864dea88bee26ff6430803](https://www.notion.so/engineeringdesign11/Final-Presentation-237873f39b864dea88bee26ff6430803)
 
 ### Group 12 (No Pressure Unit)
 
